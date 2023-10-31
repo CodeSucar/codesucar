@@ -1,5 +1,5 @@
-<p align="center">Sejam Bem-Vindos à CodeSucar 🚀 🏭 </p>&nbsp;
-<p align="center"> 🚀 🏭 </p>&nbsp;
+<p align="center"> 🚀 Sejam Bem-Vindos à CodeSucar 🏭 </p>&nbsp;
+<p align="center"> 🚀 Surpreenda seus Supervisores com seu Conhecimento em Balanço de Massa, Processos Industriais, Projetos Full Stack e Programa de Startup. 🏭 </p>&nbsp;
 
  &nbsp;
  &nbsp;
